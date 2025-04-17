@@ -1,11 +1,13 @@
-# Python for CyberSavvy
+# Python for Cyber Savvy
 This repository contains Python scripts for:
 ✅ Operating System (OS) tasks (file management, process monitoring, system info)
 ✅ Cybersecurity utilities (firewall checks, log analysis, basic penetration testing)
 ✅ Security automation (scanning, vulnerability detection, hardening checks)
 
 Perfect for security researchers, sysadmins, and Python developers looking to automate security tasks.
-🔧 Features
+
+**🔧 Features**
+
 **1. OS Interaction Scripts**
 
     📂 File & Directory Handling (create, delete, search files)
